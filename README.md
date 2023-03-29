@@ -4,7 +4,7 @@ this hackthon conducted by VIT sponsors Denforce in this we did aes in 8mah cont
 ## @team: BITCOOKIE
 ### ⭕Project Lead⭕
 #### SUDA NAVEEN
-suda.naveen2020@vitstudent.ac.in9,014905745
+suda.naveen2020@vitstudent.ac.in,9014905745
 ### ⭕Technical Lead⭕
 #### Raj Saha
 raj.saha2020@vitstudent.ac.in,8927147942
