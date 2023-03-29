@@ -1,4 +1,4 @@
-# make-a-thoon-vit-23-aes-encryption-and-decryption-in-ardino
+# make-a-thoon-23-VIT-AES-encryption-and-decryption-in-ardino
 this hackthon conducted by VIT sponsors Denforce in this we did aes in 8mah controller
 
 ## @team: BITCOOKIE
